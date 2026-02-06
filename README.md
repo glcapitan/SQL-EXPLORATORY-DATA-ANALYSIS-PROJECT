@@ -1,73 +1,87 @@
 # 📊 SQL Exploratory Data Analysis Project
 
-End-to-end SQL analytics project demonstrating my ability to transform raw relational data into actionable business insights, KPIs, and reporting datasets.
+This project demonstrates my ability to use **SQL to explore data, generate insights, and support business decision-making** — aligning with the core responsibilities of a Data Analyst or Business Intelligence Analyst.
 
-This work reflects real-world responsibilities of a **Data Analyst / Business Intelligence Analyst** — from data exploration to stakeholder-ready outputs.
+I performed hands-on analysis with relational databases to clean, validate, and transform raw data into meaningful metrics, trends, and reporting-ready datasets.
 
 ---
 
-## 🚀 Project Impact
+## 🚀 Key Outcomes
 
 Using SQL, I:
 
 - Explored and validated structured datasets
 - Built KPIs and performance metrics
-- Analyzed time-based trends and growth patterns
+- Analyzed trends over time (daily, monthly, yearly)
 - Performed customer and product segmentation
 - Created cumulative and rolling calculations
-- Produced reporting-ready tables for dashboards (Power BI / Tableau)
+- Generated analytical datasets ready for business reporting
 
-**Result:** Converted raw data into clear, decision-support insights using production-style queries.
+All queries follow **clean structure, readability, and performance best practices**.
 
 ---
 
 ## 🛠️ Core Competencies
 
 ### SQL
-- Joins (INNER, LEFT, multi-table)
-- Aggregations & GROUP BY logic
+- SELECT, WHERE, GROUP BY, HAVING
+- INNER / LEFT JOINs
 - Subqueries & CTEs
-- Window functions
-- Performance-focused query design
+- Window Functions
+- Aggregations & advanced calculations
+- Query optimization & maintainability
 
 ### Analytics
 - Exploratory Data Analysis (EDA)
 - KPI & metric development
-- Trend and cohort analysis
-- Segmentation
-- Business reporting
+- Time-series analysis
+- Cohort & segmentation analysis
+- Trend identification
+- Data-driven reporting logic
 
 ### Tools
-SQL • Excel • Power BI • Tableau • Python (Pandas)
+- SQL (MySQL/PostgreSQL style)
 
 ---
 
 ## 📂 Repository Structure
 
+Organized to reflect professional analytics workflows:
+
 - Database exploration
 - Metrics & KPIs
-- Time-series analysis
+- Time-based analysis
 - Cumulative analytics
 - Segmentation
-- Reporting queries
+- Analytical queries ready for reporting
 
-Organized to mirror professional analytics workflows used in corporate environments.
+This structure demonstrates logical and maintainable SQL project organization.
+
+---
+
+## 💼 Business Value Focus
+
+Each analysis is designed to answer practical business questions such as:
+
+- How is performance trending over time?
+- Which customers or products contribute the most value?
+- What segments drive growth or profitability?
+- What insights can inform better business decisions?
+
+This demonstrates my ability to **translate business problems → SQL analysis → actionable insights**.
 
 ---
 
 ## 👨‍💻 About Me
 
 **Erwin Glenn Capitan II**  
-Data Analyst | Business Intelligence | SQL Specialist
+Data/Business Intelligence Analyst
 
-I focus on transforming complex datasets into clear, actionable insights that support smarter business decisions.
-
-Open to Data Analyst and BI opportunities.
+I specialize in transforming raw data into clear, actionable insights using relational databases and structured queries. My focus is on building maintainable SQL solutions that support informed decision-making.
 
 ---
 
 ## 📬 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/erwin-glenn-capitan-ii/]
-- GitHub: [https://github.com/glcapitan?tab=repositories]
-
+- LinkedIn: [https://www.linkedin.com/in/erwin-glenn-capitan-ii/]  
+- GitHub: [https://github.com/glcapitan]  
