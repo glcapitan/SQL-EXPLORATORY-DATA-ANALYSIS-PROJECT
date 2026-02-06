@@ -1,22 +1,89 @@
-# sql-data-analytics-project
-A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
-This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+# 📊 SQL Exploratory Data Analysis Project (Portfolio)
+
+This project demonstrates my ability to use **SQL to explore data, generate insights, and support business decision-making** — aligning with the core responsibilities of a Data Analyst or Business Intelligence Analyst.
+
+I worked hands-on with relational databases to clean, analyze, and transform raw data into meaningful metrics, trends, and reporting outputs.
 
 ---
 
-## 🛡️ License
+## 🚀 Key Outcomes
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+- Explored and validated raw datasets
+- Wrote complex SQL queries to answer business questions
+- Built KPIs and performance metrics
+- Analyzed trends over time (daily, monthly, yearly)
+- Performed customer and product segmentation
+- Created cumulative and rolling calculations
+- Generated reporting-ready datasets for dashboards
 
-## 🌟 About Me
+All queries follow **clean structure, readability, and performance best practices**.
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+---
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+## 🛠️ Technical Skills Demonstrated
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+### SQL
+- SELECT, WHERE, GROUP BY, HAVING
+- INNER / LEFT JOINs
+- Subqueries & CTEs
+- Window Functions
+- Aggregations & advanced calculations
+
+### Data Analytics
+- Exploratory Data Analysis (EDA)
+- KPI design & metric building
+- Time-series analysis
+- Cohort & segmentation analysis
+- Trend detection
+- Reporting logic
+
+### Tools
+- SQL (MySQL/PostgreSQL style)
+- Excel
+- Power BI / Tableau
+- Python (Pandas)
+
+---
+
+## 📂 Repository Structure
+
+Organized to reflect real-world analytics workflows:
+
+- Database exploration
+- Metrics & measures
+- Time-based analysis
+- Cumulative analytics
+- Segmentation
+- Reporting queries
+
+---
+
+## 💼 Business Value Focus
+
+Each analysis is designed to answer practical business questions such as:
+
+- How is performance trending over time?
+- Which customers or products drive the most revenue?
+- What segments contribute the highest value?
+- What insights can inform better decisions?
+
+This demonstrates my ability to **translate business problems → SQL analysis → actionable insights**.
+
+---
+
+## 👨‍💻 About Me
+
+**Erwin Glenn Capitan II**  
+Data Analyst | SQL • Excel • Power BI • Python
+
+I specialize in data cleaning, analytics, and dashboard reporting — turning messy data into clear, decision-ready insights.
+
+---
+
+## 📬 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/erwin-glenn-capitan-ii/]
+- GitHub: [[Your profile link](https://github.com/glcapitan?tab=repositories)]
+- Portfolio: [https://glcapitan.github.io/GlennTheAnalyst.github.io/]
+
+Open to **Data Analyst / Business Intelligence opportunities**.
